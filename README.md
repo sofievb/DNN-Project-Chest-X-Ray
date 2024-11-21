@@ -3,10 +3,10 @@
 1. Download dataset used for this project https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download
 2. Unzip dataset
    - Save zip-file to data directory to get the following structure
-   - data/
+   -       data/
      
-     ├── images_001/
-           ├── img.png
+           ├── images_001/
+                 ├── img.png
            .
            .
            .
