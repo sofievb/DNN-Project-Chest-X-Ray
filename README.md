@@ -1,6 +1,6 @@
 # DNN-Project-Chest-X-Ray
 **NIH Chest X-rays:** \\
-1. Download dataset used for this project https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download
+1. Download dataset used for this project [Kaggle-datasettlink](https://www.kaggle.com/datasets/nih-chest-xrays/data?resource=download)  
 2. Unzip dataset
    - Save zip-file to data directory to get the following structure
    -       data/
