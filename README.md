@@ -6,9 +6,7 @@
    - data/
      
      ├── images_001/
-     
            ├── img.png
-     
            .
            .
            .
